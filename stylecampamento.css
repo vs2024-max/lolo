@@ -1,0 +1,86 @@
+:root{
+font-family: Arial, Helvetica;
+}
+
+body{
+background-color: #90AFC5  ;
+}
+#titulo{
+text-align: center;
+color:#6d6969 ;
+}
+
+#descripcion{
+color:#ffffff  ;
+font-size: 18px;
+text-align: center;
+}
+#contenedor-1{
+width:100vw;
+height: 700px;
+background-image: url("./campamento/120.jpg");
+background-repeat: no-repeat;
+background-size: cover;pg
+color:#fff;
+}
+#contenedor-2{
+    font-size: 25px;
+    align-self: self-end;
+    color: #5a5656;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10%;;  
+}
+#contenedor-3{
+width:400px;
+height: 125px;
+background-color:#336B87;
+color:#fff;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 10px;
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+margin-top: 9%;
+margin-left: 17%;
+}
+#contenedor-4{
+width:400px;
+height: 125px;
+background-color:#336B87;
+color:#fff;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 10px;
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+margin-top: 9%;
+margin-left: 15%;
+margin-left: 50%;
+margin-top: -12%;
+margin-bottom: 10%;
+}
+#menu{
+text-align:center;
+background-color:#336B87 ;
+}
+#lista-menu{
+display:flex;
+justify-content:center;
+gap:20px;
+color:#fff;
+padding-top:10px;
+padding-bottom:10px;
+list-style:none;
+}
+.menu-item{
+color:#fff;
+font-size: 18px;
+}
+.enlace-menu{
+text-decoration: none;
+}
+
+
+x
+

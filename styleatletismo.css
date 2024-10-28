@@ -1,0 +1,45 @@
+:root{
+font-family: Arial, Helvetica;
+}
+
+body{
+background-color: #DDBC95 ;
+}
+#titulo{
+text-align: center;
+color:#626D71 ;
+}
+
+#descripcion{
+color:#fff  ;
+font-size: 18px;
+text-align: center;
+}
+#contenedor-1{
+width:100vw;
+height: 700px;
+background-image: url("./atletismo/12.jpg");
+background-repeat: no-repeat;
+background-size: cover;pg
+color:#FF00FF;
+}
+#menu{
+text-align:center;
+background-color:#B38867;
+}
+#lista-menu{
+display:flex;
+justify-content:center;
+gap:20px;
+color:#414950;
+padding-top:10px;
+padding-bottom:10px;
+list-style:none;
+}
+.menu-item{
+color:#CDCDC0;
+font-size: 18px;
+}
+.enlace-menu{
+text-decoration: none;
+{
